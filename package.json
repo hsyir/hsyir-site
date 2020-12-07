@@ -22,5 +22,20 @@
         "sass-loader": "^8.0.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.14.0",
+        "bootstrap-v4-rtl": "^4.4.1-2",
+        "datatables.net-bs4": "^1.10.22",
+        "datatables.net-buttons-bs4": "^1.6.5",
+        "highcharts": "^8.2.0",
+        "i": "^0.3.6",
+        "icheck-bootstrap": "^3.0.1",
+        "overlayscrollbars": "^1.13.0",
+        "select2": "^4.0.13",
+        "select2-bootstrap-theme": "0.1.0-beta.10",
+        "sweetalert2": "^9.17.1",
+        "vivus": "^0.4.5",
+        "wow.js": "^1.2.2"
     }
 }

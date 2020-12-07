@@ -1,0 +1,157 @@
+@import "dist/css/adminlte";
+@import "dist/css/bootstrap-rtl.min";
+@import "dist/css/custom-style";
+
+
+//@import '~@fortawesome/fontawesom e-free/css/all.css';
+/*
+// Fonts
+// OverlayScrollbars
+@import '~overlayscrollbars/css/OverlayScrollbars.css';
+// iCheck
+@import '~icheck-bootstrap/icheck-bootstrap.css';
+// AdminLTE
+@import '../../../../vendor/almasaeed2010/adminlte/dist/css/adminlte.css';
+// Bootstrap
+// Already imported by AdminLTE
+//@import '~bootstrap/scss/bootstrap';
+
+
+
+
+
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/Vazir.eot');
+  src: url('../fonts/Vazir.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Vazir.woff2') format('woff2'),
+  url('../fonts/Vazir.woff') format('woff'),
+  url('../fonts/Vazir.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/Vazir-Bold.eot');
+  src: url('../fonts/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Vazir-Bold.woff2') format('woff2'),
+  url('../fonts/Vazir-Bold.woff') format('woff'),
+  url('../fonts/Vazir-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/Vazir-Light.eot');
+  src: url('../fonts/Vazir-Light.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Vazir-Light.woff2') format('woff2'),
+  url('../fonts/Vazir-Light.woff') format('woff'),
+  url('../fonts/Vazir-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/Vazir-Medium.eot');
+  src: url('../fonts/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Vazir-Medium.woff2') format('woff2'),
+  url('../fonts/Vazir-Medium.woff') format('woff'),
+  url('../fonts/Vazir-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/Vazir-Thin.eot');
+  src: url('../fonts/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Vazir-Thin.woff2') format('woff2'),
+  url('../fonts/Vazir-Thin.woff') format('woff'),
+  url('../fonts/Vazir-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/Vazir-Black.eot');
+  src: url('../fonts/Vazir-Black.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Vazir-Black.woff2') format('woff2'),
+  url('../fonts/Vazir-Black.woff') format('woff'),
+  url('../fonts/Vazir-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+
+
+body {
+  font-family: 'Vazir', sans-serif !important;
+}
+
+
+* {
+  direction: rtl !important;
+}
+
+.layout-fixed .main-sidebar {
+  right: 0;
+}
+
+.brand-image {
+  float: right;
+}
+
+.content-wrapper, .main-footer, .main-header {
+  margin-left: 0px;
+  margin-right: 250px;
+}
+
+.mr-auto-navbav {
+  margin-right: auto !important;
+}
+
+.navbar-expand .navbar-nav .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+[class*=icheck-] > input:first-child:checked + input[type=hidden] + label::after,
+[class*=icheck-] > input:first-child:checked + label::after {
+  right: 15px;
+  left: auto;
+}
+
+.nav-sidebar .nav-link > .right,
+.nav-sidebar .nav-link > p > .right {
+  left: 1rem;
+  right: auto;
+}
+
+.nav-sidebar .nav-link > .right:nth-child(2),
+.nav-sidebar .nav-link > p > .right:nth-child(2) {
+  left: 2.2rem;
+  right: auto;
+}
+
+.small-box .icon > i {
+  left: 15px;
+  right: auto;
+}
+
+@media (min-width: 992px) {
+  .sidebar-mini.sidebar-collapse .content-wrapper, .sidebar-mini.sidebar-collapse .main-footer, .sidebar-mini.sidebar-collapse .main-header {
+    margin-right: 4.6rem !important;
+  }
+
+  .sidebar-mini.sidebar-collapse .content-wrapper, .sidebar-mini.sidebar-collapse .main-footer, .sidebar-mini.sidebar-collapse .main-header {
+    margin-right: 4.6rem !important;
+    margin-left: 0 !important;
+  }
+}
+
+@media (min-width: 768px) {
+  body:not(.sidebar-mini-md) .content-wrapper, body:not(.sidebar-mini-md) .main-footer, body:not(.sidebar-mini-md) .main-header {
+    margin-left: 0px !important;
+  }
+}
+
+
+*/
