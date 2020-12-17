@@ -9,9 +9,6 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
-    <!-- Scripts -->
-    <script src="{{ asset('front/js/app.js') }}" defer></script>
-
 
     <!-- Styles -->
     <link href="{{ asset('front/css/app.css') }}" rel="stylesheet">
@@ -76,5 +73,8 @@
             @yield('content')
         </main>
     </div>
+    <!-- Scripts -->
+    <script src="{{ asset('front/js/app.js') }}" defer></script>
+
 </body>
 </html>
