@@ -31,7 +31,7 @@
                                                                         class="btn btn-outline-primary btn-sm">09370331680</a></strong>
                                     </div>
                                     <div class="col-md-12 mb-3">
-                                        <strong>نلگرام: <a target="_blank" href="https://t.me/hsy1985"
+                                        <strong>تلگرام: <a target="_blank" href="https://t.me/hsy1985"
                                                            class="btn btn-outline-primary btn-sm">hsy1985</a></strong>
                                     </div>
                                     <div class="col-md-12  mb-3">
